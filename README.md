@@ -144,8 +144,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - UI inspiration from modern fintech apps
 - Built with [Vite](https://vitejs.dev/) and [React](https://reactjs.org/)
 
-## 📧 Contact
+ 📧 Contact
 
-Your Name - your.email@example.com
+adhityanvembanat2617@gmail.com
 
-Project Link: [https://github.com/yourusername/money-tracker-app](https://github.com/yourusername/money-tracker-app)
+Project Link: [https://github.com/yourusername/money-tracker-app](https://github.com/AdhityanV/moneytracker)
